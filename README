@@ -1,4 +1,6 @@
 This is your new Play application
 =====================================
 
+This is an empty project and includes Twitter Bootstrap v2.3.2
+
 This file will be packaged with your application, when using `play dist`.
