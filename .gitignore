@@ -1,15 +1,24 @@
+# https://groups.google.com/forum/#!topic/play-framework/yx0lpw-Bb3I
+# https://gist.github.com/mtjikuzu/2658738
+
+syntax: glob
+
+# general
+*~
+
+# Play
 logs
+
+# SBT
 project/project
 project/target
 target
-tmp
-.history
 dist
-/.idea
-/*.iml
-/out
-/.idea_modules
-/.classpath
-/.project
-/RUNNING_PID
-/.settings
+
+# Eclipse
+.classpath
+.project
+.settings
+.target
+.cache
+
