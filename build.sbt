@@ -1,6 +1,6 @@
 name := "play-bootstrap"
 
-version := "1.0-SNAPSHOT"
+version := "2.3.2"
 
 libraryDependencies ++= Seq(
   javaJdbc,
